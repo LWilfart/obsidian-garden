@@ -40,7 +40,7 @@
 [[!Obsidian Learn/4. Styliser Obsidian/Créer un Hompage\|Créer un Hompage]]
 [[!Obsidian Learn/4. Styliser Obsidian/Rainbow dossier\|Rainbow dossier]]
 [[!Obsidian Learn/4. Styliser Obsidian/Changer la couleur des fichiers sur le coté\|Changer la couleur des fichiers sur le coté]]
-[[!Obsidian Learn/4. Styliser Obsidian/mettre une bannière\|mettre une bannière]]
+[[!Obsidian Learn/4. Styliser Obsidian/Multicolonne\|Multicolonne]]
 # Les Plugins
 [[!Obsidian Learn/3. Plugins/BUTTONS\|BUTTONS]]
 [[!Obsidian Learn/3. Plugins/QUICKADD\|QUICKADD]]
