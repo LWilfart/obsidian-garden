@@ -3,13 +3,13 @@
 ---
 
 ---
-# Les premiers trucs à savoir MEGA IMPORTANT
+# Les premiers trucs à savoir MEGA IMPORTANT 💯
 [[!Obsidian Learn/1. Les premiers pas/1 - Métadonnées\|1 - Métadonnées]]
 [[!Obsidian Learn/1. Les premiers pas/2 - TAG et ALIAS\|2 - TAG et ALIAS]]
 [[!Obsidian Learn/1. Les premiers pas/3 - Templates (modèle)\|3 - Templates (modèle)]]
 [[!Obsidian Learn/1. Les premiers pas/4 - Liens internes\|4 - Liens internes]]
 
-# Formatage de texte
+# Formatage de texte ✏️
 - #### Texte
 	- [[!Obsidian Learn/2. Formatage de texte/Italique et gras souligner\|Italique et gras souligner]]
 	- [[!Obsidian Learn/2. Formatage de texte/Les Titres\|Les Titres]]
@@ -28,7 +28,7 @@
 	- [[!Obsidian Learn/2. Formatage de texte/Liste et taches\|Liste et taches]]
 	- [[!Obsidian Learn/2. Formatage de texte/Math\|Math]]
 
-# Les autres trucs à savoir
+# Les autres trucs à savoir 🔬
 [[!Obsidian Learn/_Les raccourcis importants\|Raccourcis Importants]]
 [[!Obsidian Learn/5. Autres/Images\|Images]]
 [[!Obsidian Learn/5. Autres/Embeds (intégration)\|Embeds (intégration)]]
@@ -36,12 +36,12 @@
 [[!Obsidian Learn/5. Autres/Stocker des pages web\|Stocker des pages web]]
 [[!Obsidian Learn/5. Autres/Vidéo\|Vidéo]]
 
-# Styliser Obsidian
+# Styliser Obsidian 💅
 [[!Obsidian Learn/4. Styliser Obsidian/Créer un Hompage\|Créer un Hompage]]
 [[!Obsidian Learn/4. Styliser Obsidian/Rainbow dossier\|Rainbow dossier]]
 [[!Obsidian Learn/4. Styliser Obsidian/Changer la couleur des fichiers sur le coté\|Changer la couleur des fichiers sur le coté]]
 [[!Obsidian Learn/4. Styliser Obsidian/Multicolonne\|Multicolonne]]
-# Les Plugins
+# Les Plugins 🔌
 [[!Obsidian Learn/3. Plugins/BUTTONS\|BUTTONS]]
 [[!Obsidian Learn/3. Plugins/QUICKADD\|QUICKADD]]
 [[!Obsidian Learn/3. Plugins/Dataview plugin\|Dataview plugin]]
