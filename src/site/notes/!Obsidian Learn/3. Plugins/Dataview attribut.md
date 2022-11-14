@@ -34,12 +34,12 @@ Tu peux composer tes filtres en utilisant `and` et `or`, tu peux aussi exclure d
 ### WHERE : être plus précis dans ce qu'on veut (trier par champs)
 <pre><code>| File                                                                                                                                    | Title                             | Author           | Date |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------- | ---- |
-| [[Level Up/Histoire/Books/H1M/H1M 0 - Histoire du monde T1 - Index\|H1M 0 - Histoire du monde T1 - Index]]                           | Histoire du monde T1              | Roberts & Westad | 2018 |
-| [[Level Up/Histoire/Books/GHB/GHB 0 - La grande histoire de la Belgique - Index\|GHB 0 - La grande histoire de la Belgique - Index]] | La grande Histoire de la Belgique | Patrick Weber    | 2013 |
 | [[Level Up/Dev personnel/MT/MT 2 - How to make time works\|MT 2 - How to make time works]]                                           | Make time                         | Jake Knapp       | \-   |
 | [[Level Up/Dev personnel/MT/MT 1 - Introduction\|MT 1 - Introduction]]                                                               | Make time                         | Jake Knapp       | \-   |
 | [[Level Up/Dev personnel/MT/MT 0 - Make time - Index\|MT 0 - Make time - Index]]                                                     | Make time                         | Jake Knapp       | 2019 |
 | [[Level Up/Dev personnel/AH/AH 0 - Atomic habit - Index\|AH 0 - Atomic habit - Index]]                                               | Atomic Habit                      | James Clear      | 2018 |
+| [[Level Up/Histoire/Books/GHB/GHB 0 - La grande histoire de la Belgique - Index\|GHB 0 - La grande histoire de la Belgique - Index]] | La grande Histoire de la Belgique | Patrick Weber    | 2013 |
+| [[Level Up/Histoire/Books/H1M/H1M 0 - Histoire du monde T1 - Index\|H1M 0 - Histoire du monde T1 - Index]]                           | Histoire du monde T1              | Roberts & Westad | 2018 |
 </code></pre>
 Autres exemple de choses possibles: 
 1.  Obtenir tout les fichier modifier ses dernières 24h:
@@ -54,12 +54,12 @@ Super simple
 
 <pre><code>| File                                                                                                                                    | Title                             | Author           | Date |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------- | ---- |
-| [[Level Up/Histoire/Books/H1M/H1M 0 - Histoire du monde T1 - Index\|H1M 0 - Histoire du monde T1 - Index]]                           | Histoire du monde T1              | Roberts & Westad | 2018 |
-| [[Level Up/Histoire/Books/GHB/GHB 0 - La grande histoire de la Belgique - Index\|GHB 0 - La grande histoire de la Belgique - Index]] | La grande Histoire de la Belgique | Patrick Weber    | 2013 |
 | [[Level Up/Dev personnel/MT/MT 2 - How to make time works\|MT 2 - How to make time works]]                                           | Make time                         | Jake Knapp       | \-   |
 | [[Level Up/Dev personnel/MT/MT 1 - Introduction\|MT 1 - Introduction]]                                                               | Make time                         | Jake Knapp       | \-   |
 | [[Level Up/Dev personnel/MT/MT 0 - Make time - Index\|MT 0 - Make time - Index]]                                                     | Make time                         | Jake Knapp       | 2019 |
 | [[Level Up/Dev personnel/AH/AH 0 - Atomic habit - Index\|AH 0 - Atomic habit - Index]]                                               | Atomic Habit                      | James Clear      | 2018 |
+| [[Level Up/Histoire/Books/GHB/GHB 0 - La grande histoire de la Belgique - Index\|GHB 0 - La grande histoire de la Belgique - Index]] | La grande Histoire de la Belgique | Patrick Weber    | 2013 |
+| [[Level Up/Histoire/Books/H1M/H1M 0 - Histoire du monde T1 - Index\|H1M 0 - Histoire du monde T1 - Index]]                           | Histoire du monde T1              | Roberts & Westad | 2018 |
 </code></pre>
 
 ### GROUP BY : grouper selon ce que tu veux
